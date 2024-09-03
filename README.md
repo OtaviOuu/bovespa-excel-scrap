@@ -1,1 +1,1 @@
-# # Scrip para raspagem de dados de ações bovespa
+# Scrip para raspagem de dados bovespa. Output em arquivos excel
